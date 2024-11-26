@@ -1,0 +1,15 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is 5A20-0479
+
+ Directory of C:\Users\Admin\Desktop\devops
+
+26-11-2024  14:51    <DIR>          .
+26-11-2024  14:20    <DIR>          ..
+26-11-2024  14:20               314 .gitignore
+26-11-2024  14:49               527 a.text
+26-11-2024  14:24               434 a.txt
+26-11-2024  14:51                 0 command.txt
+26-11-2024  14:20                 8 README.md
+26-11-2024  14:49               483 sample.java
+               6 File(s)          1,766 bytes
+               2 Dir(s)  252,662,366,208 bytes free
